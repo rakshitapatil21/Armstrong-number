@@ -5,7 +5,7 @@ What is an Armstrong number?
 
 An Armstrong number is one whose sum of digits raised to the power three equals the number itself.
 
-For example, 371 is an Armstrong number since 3**3 + 7**3 + 1**3 = 371.
+For example, 371 is an Armstrong number since 3^3 + 7^3 + 1^3 = 371.
 
 Some other examples for Armstrong numbers are:370, 371, 407, 1634, 8208, 9474.
 
